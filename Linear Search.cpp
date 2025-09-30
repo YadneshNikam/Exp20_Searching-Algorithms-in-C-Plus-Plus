@@ -1,4 +1,5 @@
-//yashrastogi 24070123135 exp-20
+//Yadnesh Nikam
+//24070123134
 #include<iostream>
 using namespace std;
 int main(){
@@ -42,4 +43,5 @@ Enter Array elements : 1
 Array elements are : 1 2 3 4 5
 Enter the element to be searched : 3
 Element found at index 2
+
 */
